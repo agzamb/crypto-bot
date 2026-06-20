@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+requests
+# crypto-bot
